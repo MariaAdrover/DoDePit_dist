@@ -1,9 +1,10 @@
 # DoDePit_dist
-~~Práctica página web [link](https://gitcdn.xyz/repo/MariaAdrover/DoDePit_dist/master/dist/index.html) to gitcdn~~
+Práctica página web
 
-# SimuladorFuego2
+~~[link](https://gitcdn.xyz/repo/MariaAdrover/DoDePit_dist/master/dist/index.html) to gitcdn~~
+
 * Ene-2019: creación del proyecto original. Sin modificar.
-* Dic-2021: modificado README
+* Dic-2021: actualizado el README
 
 <img src="https://github.com/MariaAdrover/DoDePit_dist/blob/master/dodepit1.png" alt="dodepit" width="610"/>
 
